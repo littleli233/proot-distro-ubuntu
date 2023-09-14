@@ -5,7 +5,7 @@ termux官方下载：https://github.com/termux/termux-app/releases/tag/v0.118.0
 termux:x11官方下载：https://github.com/termux/termux-x11/releases/tag/1.03.00   
 
 ## 系统镜像安装
-镜像下载：https://github.com/littleli233/proot-distro-ubuntu/releases   
+镜像下载：上方 `ubuntu-rootfs.tar.gz` 
 
 导入镜像：`proot-distro restore storage/downloads/ubutnu-rootfs.tar.gz`   
 
